@@ -53,29 +53,6 @@ class Jaydev:
 ---
 
 <!-- ══════════════════════════════════════════ -->
-<!--              DOMAIN MAP                    -->
-<!-- ══════════════════════════════════════════ -->
-
-<div align="center">
-
-## Exploration Map
-
-| Core | Applied | Frontier |
-|:---:|:---:|:---:|
-| `Algorithms & DSA` | `Machine Learning` | `Quantitative Finance` |
-| `Operating Systems` | `Data Science` | `Distributed Systems` |
-| `Computer Networks` | `Systems Programming` | `Market Microstructure` |
-| `Compiler Design` | `Linux Internals` | `Algorithmic Trading` |
-| `Databases` | `Cryptography` | `Emergent Complexity` |
-| `Discrete Mathematics` | `Competitive Programming` | `Philosophy of Science` |
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════ -->
 <!--              TECH STACK                    -->
 <!-- ══════════════════════════════════════════ -->
 
@@ -153,89 +130,6 @@ class Jaydev:
 <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaydev-gh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════ -->
-<!--              PROJECT LAB                   -->
-<!-- ══════════════════════════════════════════ -->
-
-<div align="center">
-
-## Lab · Active Experiments
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧩 Algorithm Archive</h4>
-      <p><sub>500+ problems solved and catalogued by paradigm — DP, Graphs, Trees, Greedy, Divide & Conquer. Each with complexity proofs and multiple clean implementations.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/status-active-00d9ff?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ MiniOS Kernel</h4>
-      <p><sub>Bootable x86 OS from scratch — bootloader, paging, interrupt handling, a shell. Because the only real way to understand OS is to build one.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square"/>
-        <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square"/>
-        <img src="https://img.shields.io/badge/status-building-ffd700?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 ML From Scratch</h4>
-      <p><sub>Neural networks, SVM, Decision Trees — every layer built manually with NumPy. Zero framework magic. Real understanding over abstraction.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/status-active-00d9ff?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📈 Quant Research Terminal</h4>
-      <p><sub>Market data → strategy engine → backtest → risk metrics (Sharpe, VaR, drawdown). Bridges CS and financial systems thinking.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/status-planned-8b949e?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════ -->
-<!--         KNOWLEDGE LOG                      -->
-<!-- ══════════════════════════════════════════ -->
-
-<div align="center">
-
-## Currently Loading
-
-| Module | Source | Signal |
-|:---|:---|:---:|
-| Low-latency C++ | *Effective Modern C++* · CppCon | `⚡ deep dive` |
-| OS Internals | *OSTEP* · xv6 source | `⚙️ active` |
-| Distributed Systems | *DDIA* · MIT 6.824 | `📡 active` |
-| Dynamic Programming | CSES Problem Set · AtCoder | `🔁 drilling` |
-| ML Theory | Bishop's *PRML* · Andrew Ng | `🧠 active` |
-| Market Microstructure | Harris — *Trading & Exchanges* | `📈 exploring` |
-| Probability & Statistics | Blitzstein's *Probability* | `📊 active` |
-| Compiler Design | *Dragon Book* · Crafting Interpreters | `🔧 studying` |
 
 </div>
 
