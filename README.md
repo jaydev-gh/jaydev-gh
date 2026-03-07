@@ -38,9 +38,9 @@
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&logo=github&color=0D1117&labelColor=00FFAA&logoColor=0D1117)](https://github.com/yourusername)
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=00FFAA)](https://github.com/yourusername)
-[![Years on GitHub](https://img.shields.io/badge/dynamic/json?label=YEARS+ON+GITHUB&style=for-the-badge&color=0D1117&labelColor=00FFAA&query=$.public_repos&url=https://api.github.com/users/yourusername)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/jaydev-gh?label=Followers&style=for-the-badge&logo=github&color=0D1117&labelColor=00FFAA&logoColor=0D1117)](https://github.com/jaydev-gh)
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=00FFAA)](https://github.com/jaydev-gh)
+[![Years on GitHub](https://img.shields.io/badge/dynamic/json?label=YEARS+ON+GITHUB&style=for-the-badge&color=0D1117&labelColor=00FFAA&query=$.public_repos&url=https://api.github.com/users/yourusername)](https://github.com/jaydev-gh)
 
 </div>
 
@@ -209,10 +209,10 @@
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaydev-gh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
 <!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydev-gh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -221,7 +221,7 @@
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydev-gh&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" alt="GitHub Streak"/>
 
 </div>
 
@@ -230,7 +230,7 @@
 <div align="center">
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&area=true&hide_border=true&area_color=00FFAA20" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydev-gh&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&area=true&hide_border=true&area_color=00FFAA20" alt="Contribution Graph"/>
 
 </div>
 
@@ -239,7 +239,7 @@
 <div align="center">
 
 <!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jaydev-gh&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -292,7 +292,7 @@ CUDA (GPU acceleration)
 </tr>
 </table>
 
-[![Repo](https://img.shields.io/badge/→_VIEW_EXPERIMENT-0D1117?style=for-the-badge&logo=github&logoColor=00FFAA)](https://github.com/yourusername)
+[![Repo](https://img.shields.io/badge/→_VIEW_EXPERIMENT-0D1117?style=for-the-badge&logo=github&logoColor=00FFAA)](https://github.com/jaydev-gh)
 
 ---
 
@@ -327,7 +327,7 @@ PostgreSQL (OHLCV data)
 </tr>
 </table>
 
-[![Repo](https://img.shields.io/badge/→_VIEW_EXPERIMENT-0D1117?style=for-the-badge&logo=github&logoColor=00FFAA)](https://github.com/yourusername)
+[![Repo](https://img.shields.io/badge/→_VIEW_EXPERIMENT-0D1117?style=for-the-badge&logo=github&logoColor=00FFAA)](https://github.com/jaydev-gh)
 
 ---
 
@@ -363,7 +363,7 @@ Docker (multi-node cluster)
 </tr>
 </table>
 
-[![Repo](https://img.shields.io/badge/→_VIEW_EXPERIMENT-0D1117?style=for-the-badge&logo=github&logoColor=00FFAA)](https://github.com/yourusername)
+[![Repo](https://img.shields.io/badge/→_VIEW_EXPERIMENT-0D1117?style=for-the-badge&logo=github&logoColor=00FFAA)](https://github.com/jaydev-gh)
 
 ---
 
@@ -399,7 +399,7 @@ GDB (kernel debugging)
 </tr>
 </table>
 
-[![Repo](https://img.shields.io/badge/→_VIEW_EXPERIMENT-0D1117?style=for-the-badge&logo=github&logoColor=00FFAA)](https://github.com/yourusername)
+[![Repo](https://img.shields.io/badge/→_VIEW_EXPERIMENT-0D1117?style=for-the-badge&logo=github&logoColor=00FFAA)](https://github.com/jaydev-gh)
 
 <br>
 
@@ -541,11 +541,10 @@ GDB (kernel debugging)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FFAA&labelColor=0D1117)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Website](https://img.shields.io/badge/WEBSITE-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FFAA&labelColor=0D1117)](https://github.com/jaydev-gh)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydevparmar13)
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jaydev_13_)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaydevparmar556@email.com)
 
 <br>
 
