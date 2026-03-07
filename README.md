@@ -169,7 +169,6 @@ class Jaydev:
 [![GitHub](https://img.shields.io/badge/GitHub-jaydev--gh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaydev-gh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaydevparmar13-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydevparmar13)
 [![Twitter](https://img.shields.io/badge/Twitter-@jaydev__13__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jaydev_13_)
-[![Email](https://img.shields.io/badge/Email-reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaydevparmar556@gmail.com)
 
 <br/>
 
