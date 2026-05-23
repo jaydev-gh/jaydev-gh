@@ -29,7 +29,6 @@ class Jaydev:
     role        = "Computer Science Engineer"
     location    = "India 🇮🇳"
     mindset     = ["First principles", "Systems thinking", "Compounding knowledge"]
-
     philosophy  = "Every complex system hides an elegant truth. Find it."
 ```
 
