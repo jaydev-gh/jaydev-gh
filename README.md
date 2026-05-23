@@ -30,21 +30,6 @@ class Jaydev:
     location    = "India 🇮🇳"
     mindset     = ["First principles", "Systems thinking", "Compounding knowledge"]
 
-    interests   = [
-        "Algorithms & Complexity",  "Operating Systems",
-        "Artificial Intelligence",  "Quantitative Finance",
-        "Mathematics",              "Cybersecurity",
-        "Distributed Systems",      "Philosophy of Mind",
-    ]
-
-    currently   = {
-        "mastering"  : "CS core  →  OS · CN · DBMS · Compilers",
-        "grinding"   : "500+ algorithmic problems",
-        "targeting"  : "GATE — Top 100 Rank",
-        "building"   : "Systems that solve real problems",
-        "exploring"  : "AI · Quant Finance · Low-level C++",
-    }
-
     philosophy  = "Every complex system hides an elegant truth. Find it."
 ```
 
@@ -168,11 +153,6 @@ class Jaydev:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaydevparmar13-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydevparmar13)
 [![Twitter](https://img.shields.io/badge/Twitter-@jaydev__13__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jaydev_13_)
 
-<br/>
-
-<sub>Open to: systems projects · competitive programming · GATE prep · AI research · anything genuinely hard</sub>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3d62,100:0d1117&height=100&section=footer&animation=fadeIn" />
 
